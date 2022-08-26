@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AshabEcom/static/css/main.97c14268.css",
+    "main.js": "/AshabEcom/static/js/main.f4a4b8ec.js",
+    "static/media/red.png": "/AshabEcom/static/media/red.2a3efcdef2ac182e83f8.png",
+    "static/media/pink.png": "/AshabEcom/static/media/pink.98ee64bf3a614a3b1b6d.png",
+    "index.html": "/AshabEcom/index.html",
+    "main.97c14268.css.map": "/AshabEcom/static/css/main.97c14268.css.map",
+    "main.f4a4b8ec.js.map": "/AshabEcom/static/js/main.f4a4b8ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c14268.css",
+    "static/js/main.f4a4b8ec.js"
+  ]
+}
